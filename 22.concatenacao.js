@@ -1,4 +1,4 @@
-
+/*testes 09_07*/
 
 var nome, numero
 nome = prompt ("Digite o seu nome:")

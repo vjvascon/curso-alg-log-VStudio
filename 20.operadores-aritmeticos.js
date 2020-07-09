@@ -1,4 +1,4 @@
-
+/*testes 09_07*/
 
 var resultado, valor01, valor02, valor03;
 valor01 = 10

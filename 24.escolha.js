@@ -1,4 +1,4 @@
-
+/*testes 09_07*/
 
 function acaoBotao() {
     var valor01, valor02, resultado, operacao
