@@ -1,4 +1,4 @@
-
+/*testes 09_07*/
 
   var nome, nota1, nota2, passou;
 

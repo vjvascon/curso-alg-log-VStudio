@@ -1,3 +1,5 @@
+/*testes 09_07*/
+
 var nome, nota
 nome = prompt("Digite seu nome:")
 nota = prompt("Digite sua nota:")
